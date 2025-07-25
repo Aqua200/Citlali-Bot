@@ -1,6 +1,6 @@
 📜 TÉRMINOS, PRIVACIDAD Y CONDICIONES DE USO
 
-> Última actualización: 25 de diciembre de 2023
+> Última actualización: 25 de julio de 2025
 
 
 
