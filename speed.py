@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# Editado por AdrianOficial 
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 # Copyright 2012 Matt Martz
 # All Rights Reserved.
 #
