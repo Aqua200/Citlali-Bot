@@ -1,6 +1,6 @@
 <h1 align="center">Citlali✦Bot</h1>
 
- <img src= "">
+ <img src= "https://files.catbox.moe/lg9gsv.jpeg">
     </p>
 
 ### **`❕️ Información importante`**
